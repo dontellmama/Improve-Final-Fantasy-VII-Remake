@@ -28,6 +28,6 @@ r.SceneColorFringeQuality=0 ; remove blur
 r.Tonemapper.GrainQuantization=0 ; remove grain  
 r.Tonemapper.Quality=0 ; remove
 
-[EffectsQuality@]
+[EffectsQuality@]  
 r.DetailMode=2 ; improve detail
 r.MaterialQualityLevel=1 ; improve material
