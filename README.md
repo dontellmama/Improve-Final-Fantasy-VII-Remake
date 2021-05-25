@@ -3,7 +3,7 @@
 all tested
 
 [TextureStreaming]  
-r.Streaming.PoolSize=2000 ； Streaming Pool Size too large will crash. Cause PS4 total RAM is too small, and RAM, VRAM share 8G (approximately 5G available for games) RAM    
+r.Streaming.PoolSize=2000 ； Streaming Pool Size too large(for example) will crash. Cause PS4 total RAM is too small, and RAM, VRAM share 8G (approximately 5G available for games) RAM    
 r.Streaming.MaxTempMemoryAllowed=40  
 MemoryMargin=10  
 
