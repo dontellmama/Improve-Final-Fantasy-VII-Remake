@@ -9,13 +9,12 @@ MemoryMargin=10
 
 [TextureQuality@]
 r.Streaming.MipBias=0          
-r.MaxAnisotropy=16        
-r.Streaming.LimitPoolSizeToVRAM=0      
+r.MaxAnisotropy=16 ; AF 16X   
 r.Streaming.PoolSize=2000    
 r.Streaming.MaxEffectiveScreenSize=0  
 
 [AntiAliasingQuality@]
-r.PostProcessAAQuality=3
+r.PostProcessAAQuality=3 ; default value 4 TAA too blur, 3 balance more than other value
 
 [PostProcessQuality@]
 r.MotionBlurQuality=0 ; disable Motion Blur
