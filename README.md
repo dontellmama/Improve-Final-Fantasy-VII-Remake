@@ -2,7 +2,7 @@
 
 all tested
 
-[TextureStreaming]
+[TextureStreaming]  
 r.Streaming.PoolSize=2000  
 r.Streaming.MaxTempMemoryAllowed=40  
 MemoryMargin=10  
