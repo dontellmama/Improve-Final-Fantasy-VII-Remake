@@ -2,9 +2,9 @@
 
 all tested
 
-r.Streaming.PoolSize=2000
-r.Streaming.MaxTempMemoryAllowed=40
-MemoryMargin=10
+r.Streaming.PoolSize=2000  
+r.Streaming.MaxTempMemoryAllowed=40  
+MemoryMargin=10  
 
 [TextureQuality@]
 r.Streaming.MipBias=0
