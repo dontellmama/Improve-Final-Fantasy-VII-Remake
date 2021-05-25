@@ -13,10 +13,10 @@ r.MaxAnisotropy=16 ; AF 16X
 r.Streaming.PoolSize=2000    
 r.Streaming.MaxEffectiveScreenSize=0  
 
-[AntiAliasingQuality@]
+[AntiAliasingQuality@]  
 r.PostProcessAAQuality=3 ; default value 4 TAA too blur, 3 balance more than other value
 
-[PostProcessQuality@]
+[PostProcessQuality@]  
 r.MotionBlurQuality=0 ; disable Motion Blur
 r.AmbientOcclusionMipLevelFactor=0.4 ; improve AO.  
 r.AmbientOcclusionMaxQuality=100 ; ; improve AO     
