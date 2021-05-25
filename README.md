@@ -1,15 +1,15 @@
-# Improve-Final-Fantasy-VII-Remake
+# Final-Fantasy-VII-Remake
 
 all tested
 
 [TextureStreaming]  
-r.Streaming.PoolSize=2000 ； Streaming Pool Size too large(for example, 2600) will crash. Cause PS4 total RAM is too small, RAM and VRAM share 8G (approximately 5G available for games) RAM    
+r.Streaming.PoolSize=2000 ； Streaming Pool Size too large(for example, 2600) will crash. Cause PS4 total RAM too small, RAM and VRAM share 8G (approximately 5G available for games) RAM    
 r.Streaming.MaxTempMemoryAllowed=40  
 MemoryMargin=10  
 
 [TextureQuality@]  
 r.Streaming.MipBias=0          
-r.MaxAnisotropy=16 ; AF 16X  
+r.MaxAnisotropy=16 ; AF 16X   
 r.Streaming.PoolSize=2000    
 r.Streaming.MaxEffectiveScreenSize=0  
 
@@ -25,7 +25,7 @@ r.AmbientOcclusionRadiusScale=1.0 ; improve AO
 r.DepthOfFieldQuality=2 ; DOF so far so good
 r.SceneColorFringeQuality=0 ; remove blur  
 r.Tonemapper.GrainQuantization=0 ; remove grain  
-r.Tonemapper.Quality=0 ; remove
+r.Tonemapper.Quality=0 ; remove grain
 
 [EffectsQuality@]  
 r.DetailMode=2 ; improve detail
