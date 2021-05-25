@@ -19,7 +19,7 @@ r.PostProcessAAQuality=3 ; default value 4 TAA too blur, 3 balance more than oth
 [PostProcessQuality@]  
 r.MotionBlurQuality=0 ; disable Motion Blur
 r.AmbientOcclusionMipLevelFactor=0.4 ; improve AO.  
-r.AmbientOcclusionMaxQuality=100 ; ; improve AO     
+r.AmbientOcclusionMaxQuality=100 ; improve AO     
 r.AmbientOcclusionLevels=-1 ; improve AO    
 r.AmbientOcclusionRadiusScale=1.0 ; improve AO      
 r.DepthOfFieldQuality=2 ; DOF so far so good
