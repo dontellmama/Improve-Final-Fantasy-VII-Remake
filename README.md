@@ -3,7 +3,7 @@
 all tested
 
 [TextureStreaming]  
-r.Streaming.PoolSize=2000  
+r.Streaming.PoolSize=2000 ； Streaming Pool Size too large will preempt memory and crash. Cause PS4 RAM and VRAM share 8G (approximately 5G available for games) RAM    
 r.Streaming.MaxTempMemoryAllowed=40  
 MemoryMargin=10  
 
@@ -14,7 +14,7 @@ r.Streaming.PoolSize=2000
 r.Streaming.MaxEffectiveScreenSize=0  
 
 [AntiAliasingQuality@]  
-r.PostProcessAAQuality=3 ; default value 4 TAA too blur, 3 balance more than other value
+r.PostProcessAAQuality=3 ; default value 4 TAA too blur, value 3 balance more than other
 
 [PostProcessQuality@]  
 r.MotionBlurQuality=0 ; disable Motion Blur
