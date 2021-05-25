@@ -28,5 +28,5 @@ r.Tonemapper.GrainQuantization=0 ; remove grain
 r.Tonemapper.Quality=0 ; remove grain
 
 [EffectsQuality@]  
-r.DetailMode=2 ; improve detail
+r.DetailMode=2 ; improve detail  
 r.MaterialQualityLevel=1 ; improve material
