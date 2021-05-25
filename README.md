@@ -7,7 +7,7 @@ r.Streaming.PoolSize=2000
 r.Streaming.MaxTempMemoryAllowed=40  
 MemoryMargin=10  
 
-[TextureQuality@]
+[TextureQuality@]  
 r.Streaming.MipBias=0          
 r.MaxAnisotropy=16 ; AF 16X   
 r.Streaming.PoolSize=2000    
